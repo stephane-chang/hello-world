@@ -1,0 +1,26 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Just another repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephane-chang/hello-world.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/stephane-chang/hello-world/issues"
+  },
+  "homepage": "https://github.com/stephane-chang/hello-world#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.11.0",
+    "typescript": "^5.8.3",
+    "zod": "^3.24.4"
+  }
+}
